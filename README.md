@@ -1,8 +1,3 @@
-### Hi there 👋
-
-```shell
-$ whoami
-```
 <!--
 **abaiju15/abaiju15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +12,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](https://github.com/abaiju15/abaiju15/blob/main/github-metrics.svg)
